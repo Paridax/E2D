@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.idea": true,
+        "**/.next": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/next-env.d.ts": true,
+        "**/node_modules": true
+    },
+    "hide-files.files": []
+}
